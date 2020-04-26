@@ -5,6 +5,7 @@
   <artifactId>rain</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
+  <failOnMissingWebXml>false</failOnMissingWebXml>
   <name>pro99 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
