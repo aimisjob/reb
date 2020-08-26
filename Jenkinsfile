@@ -1,5 +1,5 @@
 pipeline{
- agent any{
+ agent any
  options{
    skipStagesAfterUnstable()
    }
@@ -19,4 +19,4 @@ pipeline{
  }
 }
 }
-}
+
