@@ -6,7 +6,7 @@ pipeline{
  stages{
  stage('build'){
    steps{
-     echo "setting curent build to unstable
+     echo "setting curent build to unstable"
      script{
        currentBuild.result="UNSTABLE"
       }
